@@ -135,4 +135,3 @@ When working in a large team, TypeScript helps us maintain code quality and cons
 ## Conclusion
 
 TypeScript is not just about types. It’s about confidence. It’s about writing code that we can trust. It’s about catching bugs before they reach users. It’s about scaling teams and projects without chaos. It’s about turning code into a system that holds itself together.
-# typescript-exploration
